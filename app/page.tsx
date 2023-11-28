@@ -5,7 +5,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <Fragment>
-      <h1 className="text-[4.5em] bold mt-20">Ohayô</h1>
+      <h1 className="bold mt-20 text-[4.5em]">Ohayô</h1>
 
       <h2>
         Je m&apos;appelle <strong>Geoffrey Brunet</strong>
